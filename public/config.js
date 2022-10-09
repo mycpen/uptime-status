@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+    {
+      text: '学习笔记',
+      url: 'https://cpen.top/'
+    },
+      text: '网址导航',
+      url: 'https://nav.cpen.top/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: 'https://github.com/mycpen'
     },
   ],
 };
