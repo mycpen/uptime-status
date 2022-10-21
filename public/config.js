@@ -21,15 +21,15 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '学习笔记',
+      text: '博客',
       url: 'https://cpen.top/'
     },
+    // {
+    //   text: '网址导航',
+    //   url: 'https://nav.cpen.top/'
+    // },
     {
-      text: '网址导航',
-      url: 'https://nav.cpen.top/'
-    },
-    {
-      text: 'GitHub',
+      text: 'Github',
       url: 'https://github.com/mycpen'
     },
   ],
