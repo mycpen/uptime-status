@@ -22,7 +22,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://www.mycpen.cn/'
+      url: 'https://mycpen.cn/'
     },
     {
       text: '博客',
